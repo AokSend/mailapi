@@ -2,7 +2,7 @@
 
 #### 介绍
 通过使用AokSend邮件API接口进行调用发送邮件测试，在线调试配置邮件接口实现发送邮件。只需要简单的配置即可快速测试邮件api的可用性和使用效果。更简单更高效的使用接口发送邮件。
-![AokSend邮件API接口](https://gitee.com/aoksend/emailsend/raw/master/aaa.png)
+[![AokSend邮件API接口](https://gitee.com/aoksend/emailsend/raw/master/aaa.png)](https://www.aoksend.com/)
 #### 在线调试演示界面
 ![邮件API接口调用测试_在线调试配置发送邮件](https://gitee.com/aoksend/emailsend/raw/master/pic/Pic_20240518_182740.jpg)
 在线调试链接：[使用Apifox在线调试AokSend](https://apifox.com/apidoc/shared-c8d42c32-1e1b-43c8-8d18-716b822bfb20)
